@@ -4,6 +4,7 @@ import Chat from './chat';
 import Prompts from './prompts';
 import KnowledgeBase from './knowledgeBase';
 
+
 function Index() {
   
   const { TabPane } = Tabs;
