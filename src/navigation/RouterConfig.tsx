@@ -1,7 +1,7 @@
 
 import { Route, Routes } from 'react-router-dom';
 import * as PATHS from './CONSTANTS';
-import SignIn from '../pages/signIn';
+import SignIn from '../pages/auth/index';
 import Chat from '../pages/chat'
 
 const RouterConfig = () => {
